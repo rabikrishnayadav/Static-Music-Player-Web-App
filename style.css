@@ -1,0 +1,18 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "poppins",sans-serif;
+}
+*::before, *::after{
+	margin: 0;
+	padding: 0;
+}
+:root{
+	--pink:  #ff74a4;
+	--violet: #9f6ea3;
+	--white: #ffffff;
+	--darkwhite: #cecaca;
+	--pinkshadow: #ffcbdd;
+	--lightbshadow: rgba(0,0,0,0.5);
+}
